@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋🏻, I'm Aindri Singh Bhadoriya🌷</h1>
-<h3 align="center">🌟 Aspiring to be a Web Developer</h3>
+<h3 align="center">🌟 Aspiring to be a Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aindri11&label=Profile%20views&color=0e75b6&style=flat" alt="aindri11" /> </p>
 
 - 🔭 I’m currently working on **my DSA skills✨**
 
-- 🌱 I’m currently learning **more about react, tailwind and other web skills.**
+- 🌱 I’m currently learning **more about react, python and some machine learning.**
 
 - 📫 How to reach me **aindrisingh2004@gmail.com**
 
